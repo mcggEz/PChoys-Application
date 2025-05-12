@@ -18,6 +18,7 @@ Purrfect Choys is a report management system tailored for store owners who need 
 ## Deployment
 
 The application is deployed on Vercel.
+Link: https://purrfectchoys.vercel.app/
 
 
 ###  Key Features
