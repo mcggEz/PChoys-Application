@@ -30,5 +30,5 @@ Link: https://purrfectchoys.vercel.app/
   - Customizable report templates
 
 - User Management
-  - Activity tracking
+
  
