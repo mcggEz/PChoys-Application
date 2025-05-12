@@ -8,7 +8,7 @@ Purrfect Choys is a report management system tailored for store owners who need 
 
 ###  Key Features
 
-- **📊 Daily Reporting System**
+- ** Daily Reporting System**
   - Seamless report creation and submission
   - Real-time updates
   - Customizable report templates
