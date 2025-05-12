@@ -1,9 +1,5 @@
 #  Purrfect Choys
 
-A mobile-first report management system designed to streamline daily operations.
-
-##  Overview
-
 Purrfect Choys is a report management system tailored for store owners who need an efficient way to track and manage daily reports and monthly. This mobile-first application simplifies the reporting process while providing powerful insights through an intuitive dashboard.
 
 ##  Tech Stack
@@ -19,9 +15,9 @@ Purrfect Choys is a report management system tailored for store owners who need 
 - MongoDB - NoSQL database
 - **Mongoose** - MongoDB object modeling
 
-### Deployment
-- Vercel
+## Deployment
 
+The application is deployed on Vercel.
 
 
 ###  Key Features
@@ -34,5 +30,3 @@ Purrfect Choys is a report management system tailored for store owners who need 
 - User Management
   - Activity tracking
  
-    
-
