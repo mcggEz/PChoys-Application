@@ -16,7 +16,7 @@ Purrfect Choys is a report management system tailored for store owners who need 
 - ** User Management**
   - Activity tracking
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React Native** - Mobile application framework
