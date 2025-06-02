@@ -1,14 +1,14 @@
 #  Purrfect Choys
 
-Purrfect Choys is a report management system tailored for store owners who need an efficient way to track and manage daily reports and monthly. This mobile-first application simplifies the reporting process while providing powerful insights through an intuitive dashboard.
+Purrfect Choys is a report management system tailored for store owners who need an efficient way to track and manage daily and monthly reports. This mobile-first application simplifies the reporting process.
 
 ##  Tech Stack
 
 ### Frontend
 - React Native - Mobile application framework
-- NativeWind - Tailwind CSS for React Native
-- React Navigation - Navigation library
-
+- NativeWind 
+- React Navigation
+  
 ### Backend
 - Node.js - Runtime environment
 - Express.js - Web application framework
