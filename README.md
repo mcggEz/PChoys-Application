@@ -17,13 +17,6 @@ Link: https://purrfectchoys.vercel.app/
 - MongoDB - NoSQL database
 - **Mongoose** - MongoDB object modeling
 
-## Deployment
-
-The application is deployed on Vercel.
-
-Link: https://purrfectchoys.vercel.app/
-
-
 ###  Key Features
 
 -  Daily Reporting System
